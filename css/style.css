@@ -1,0 +1,7 @@
+.section{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.imput-wrapper{
+   flex-direction: column;
+}
